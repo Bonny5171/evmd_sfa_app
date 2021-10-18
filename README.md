@@ -23,3 +23,10 @@ na interface UI mais animações e com mudanças de paginas tudo ao mesmo tempo.
 
 Espero que este seja o embrião para uma migração calma e tranquila do RN com 'expo' para o Flutter e
 que consigamos alcançar todas as features atuais sem problemas.
+
+
+## Iniciar projecto
+
+```
+flutter run
+```
